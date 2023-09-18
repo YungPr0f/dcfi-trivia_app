@@ -1,6 +1,8 @@
 # DCFI Trivia App
 DevCareer Frontend Intermediate - Assignment 01
 
+Demo - https://omotoyosi.me/dcfi/trivia-app
+
 ## Assignment Description
 Build a simple trivia application using the Open Trivia DB api - https://opentdb.com/api_config.php  
 
